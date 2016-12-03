@@ -1,28 +1,14 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação Monolítica desenvolvida como exemplo para Trabalho de Conclusão de Curso.
+Aplicação para venda de produtos a clientes.
 
-Things you may want to cover:
+*Ruby version: ruby 2.1.1p76 Rails version: Rails 4.2.6
 
-* Ruby version
+*System dependencies: gem rails-api, SQLite3
 
-* System dependencies
+*Configuration: rake bundle install
 
-* Configuration
+*Database creation: rake db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+*Database initialization: rake db:seed
