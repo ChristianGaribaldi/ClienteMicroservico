@@ -1,9 +1,10 @@
 == README
 
-Aplicação Monolítica desenvolvida como exemplo para Trabalho de Conclusão de Curso.
-Aplicação para venda de produtos a clientes.
+Aplicação Microserviço Cliente - desenvolvido como exemplo para Trabalho de Conclusão de Curso.
+Fornece serviço de Cliente via API REST (JSON).
 
-*Ruby version: ruby 2.1.1p76 Rails version: Rails 4.2.6
+*Ruby version: ruby 2.1.1p76
+*Rails version: Rails 4.2.6
 
 *System dependencies: gem rails-api, SQLite3
 
